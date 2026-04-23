@@ -36,6 +36,8 @@ A hackathon-winning scam call interceptor utilizing on-device NLP to protect vul
 ## 📫 Get In Touch
 
 **LinkedIn:** https://www.linkedin.com/in/nishi-patidar
+
 **GitHub:** nishi-patidar 
+
 **Email:** 27nishipatidar@gmail.com
 **Portfolio:** https://nishi-patidar-portfolio.netlify.app
