@@ -1,4 +1,5 @@
 # Nishi Patidar
+CSE student | Developer| Designer | Orchestrator
 
 Frontend Developer specializing in the MERN stack and TypeScript, focused on building production-ready applications with aesthetic, high-impact UI/UX design. Currently pursuing a B.Tech at the Acropolis Institute of Technology and Research (AITR), Indore.
 
@@ -40,4 +41,7 @@ A hackathon-winning scam call interceptor utilizing on-device NLP to protect vul
 **GitHub:** nishi-patidar 
 
 **Email:** 27nishipatidar@gmail.com
+
 **Portfolio:** https://nishi-patidar-portfolio.netlify.app
+
+**Leetcode:** https://leetcode.com/u/nishipatidar_27
