@@ -5,7 +5,7 @@ Frontend Developer specializing in the MERN stack and TypeScript, focused on bui
 
 ## 🚀 About Me
 
-I am a developer who bridges the gap between clean code and elegant design. I enjoy participating in competitive programming on platforms like LeetCode and building scalable web applications. Beyond coding, I have a strong background in community leadership and technical event management.
+I am a developer who bridges the gap between clean code and elegant design. I enjoy participating in competitive programming on platforms like LeetCode and building scalable web applications. Beyond coding, I have a strong background in community leadership and technical eventmanagement.
 
 ## 💻 Tech Stack
 
